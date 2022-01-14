@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>BUST LINK!</title>
+  
+  <subtitle>a place to prove my existence</subtitle>
+  <link href="https://www.yoursite.com/atom.xml" rel="self"/>
+  
+  <link href="https://www.yoursite.com/"/>
+  <updated>2022-01-06T12:14:59.696Z</updated>
+  <id>https://www.yoursite.com/</id>
+  
+  <author>
+    <name>Eis Zet</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Technical Artist,start!</title>
+    <link href="https://www.yoursite.com/2022/01/03/Create/"/>
+    <id>https://www.yoursite.com/2022/01/03/Create/</id>
+    <published>2022-01-06T12:11:40.000Z</published>
+    <updated>2022-01-06T12:14:59.696Z</updated>
+    
+    <content type="html"><![CDATA[<p>记录一些游戏美术的学习过程！</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;记录一些游戏美术的学习过程！&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    <category term="TA" scheme="https://www.yoursite.com/categories/TA/"/>
+    
+    
+    <category term="nonsense" scheme="https://www.yoursite.com/tags/nonsense/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>0</title>
+    <link href="https://www.yoursite.com/2022/01/03/Create/"/>
+    <id>https://www.yoursite.com/2022/01/03/Create/</id>
+    <published>2022-01-05T15:06:35.000Z</published>
+    <updated>2022-01-13T14:25:19.965Z</updated>
+    
+    <content type="html"><![CDATA[<p>有时候吧，发点自己感觉很有趣的言论，但是发完就觉得自己变得陌生了，开始思考这些话给别人的看法是什么。其实我觉得这还好，推己及人嘛，就是有些累。当然了，我会这样，确实是言论本身可能存在争议，我本来说出口的话就需要完善，词不达意可以有，但是总得有个尽头吧。有时候真的会像个脑弹儿一样。嘛，自顾自的感动，自顾自的破防。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;有时候吧，发点自己感觉很有趣的言论，但是发完就觉得自己变得陌生了，开始思考这些话给别人的看法是什么。其实我觉得这还好，推己及人嘛，就是有些累。当然了，我会这样，确实是言论本身可能存在争议，我本来说出口的话就需要完善，词不达意可以有，但是总得有个尽头吧。有时候真的会像个脑弹儿</summary>
+      
+    
+    
+    
+    <category term="Story" scheme="https://www.yoursite.com/categories/Story/"/>
+    
+    
+    <category term="2022" scheme="https://www.yoursite.com/tags/2022/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>math,my true world</title>
+    <link href="https://www.yoursite.com/2022/01/03/Create/"/>
+    <id>https://www.yoursite.com/2022/01/03/Create/</id>
+    <published>2022-01-04T10:17:41.000Z</published>
+    <updated>2022-01-04T10:21:11.055Z</updated>
+    
+    <content type="html"><![CDATA[<p>想先从学过的慢慢梳理，暂时的路线是：数论——图论——概率论，其他的还没学过。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;想先从学过的慢慢梳理，暂时的路线是：数论——图论——概率论，其他的还没学过。&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    <category term="Math" scheme="https://www.yoursite.com/categories/Math/"/>
+    
+    
+    <category term="nonsense" scheme="https://www.yoursite.com/tags/nonsense/"/>
+    
+    <category term="math" scheme="https://www.yoursite.com/tags/math/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>LETSSSSSS GO!</title>
+    <link href="https://www.yoursite.com/2022/01/03/Create/"/>
+    <id>https://www.yoursite.com/2022/01/03/Create/</id>
+    <published>2022-01-03T15:04:54.000Z</published>
+    <updated>2022-01-03T15:08:03.796Z</updated>
+    
+    <content type="html"><![CDATA[<p>Hey guys!<br>hope i can make my blog successfully.</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Hey guys!&lt;br&gt;hope i can make my blog successfully.&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://www.yoursite.com/2022/01/03/Create/"/>
+    <id>https://www.yoursite.com/2022/01/03/Create/</id>
+    <published>2017-05-26T04:12:57.000Z</published>
+    <updated>2022-01-06T12:38:05.497Z</updated>
+    
+    <content type="html"><![CDATA[<ol><li>生成文件三大步骤：<br>hexo clean<br>hexo g<br>hexo d</li><li>创建文件：<br>hexo n [文件名字]</li><li>vim :<br><img src="/2022/01/03/Create/vimButton.png" alt="vim button"> </li></ol>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;ol&gt;
+&lt;li&gt;生成文件三大步骤：&lt;br&gt;hexo clean&lt;br&gt;hexo g&lt;br&gt;hexo d&lt;/li&gt;
+&lt;li&gt;创建文件：&lt;br&gt;hexo n [文件名字]&lt;/li&gt;
+&lt;li&gt;vim :&lt;br&gt;&lt;img src=&quot;/2022/01/03/Create/vimButto</summary>
+      
+    
+    
+    
+    <category term="Alzheimer" scheme="https://www.yoursite.com/categories/Alzheimer/"/>
+    
+    
+    <category term="nonsense" scheme="https://www.yoursite.com/tags/nonsense/"/>
+    
+  </entry>
+  
+</feed>
